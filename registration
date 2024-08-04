@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>REGISTER</title>
+</head>
+<body>
+    <form>
+<table>
+    <tr>
+        <td>NAME:</td> <td><input type="text" placeholder="ENTER A NAME"></td>
+    </tr>
+    <Tr>
+        <td>AGE:</td> <td><input type="number"placeholder="ENTER AGE"></td>
+    </Tr>
+    <tr>
+        <td><input type="submit"></td>
+    </tr>
+</table>
+
+
+
+    </form>
+</body>
+</html>
